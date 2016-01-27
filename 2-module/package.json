@@ -1,0 +1,14 @@
+{
+  "name": "2-module",
+  "version": "1.0.0",
+  "description": "Example #2",
+  "main": "add-nums.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "underscore": "^1.8.3"
+  }
+}
